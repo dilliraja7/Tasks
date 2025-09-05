@@ -16,4 +16,3 @@ This project allows users to add, complete, delete, and clear tasks.
 
 ---
 
-## 📂 Project Structure
